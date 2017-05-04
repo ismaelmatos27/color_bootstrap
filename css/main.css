@@ -1,0 +1,415 @@
+.nav-pills{
+  float: right;
+  padding: 30px;
+  margin-right: 150px;
+  color: #394849;
+
+}
+.brand{
+  font-size: 180%;
+  font-family: serif;
+  color:#394849;
+  text-decoration: none;
+}
+a:hover, a:focus {
+    color:#394849;
+    text-decoration: none;
+}
+.nav1{
+    background-color: #A7D3DC;
+    height: 100px;
+}
+.nav > li > a {
+    position: relative;
+    display: block;
+    padding: 10px 25px;
+    font-size: 100%;
+    color:#394849;
+}
+
+.fa-heart{
+  margin-left: 150px;
+  margin-top: 30px;
+  padding-right: 20px;
+  font-size: 120%;
+}
+.nav-pills > li.active > a, .nav-pills > li.active > a:hover, .nav-pills > li.active > a:focus {
+  background-color: #394849;
+  color:#A7D3DC;
+}
+.container-fluid{
+  background-color:#A7D3DC;
+  text-align: center ;
+  padding-top: 100px;
+  padding-bottom: 0px;
+}
+
+.col-md-6 >h3{
+
+  font-size: 300%;
+  color:white;
+  font-family: serif;
+  font-weight: bold;
+  margin-left: 30%;
+}
+.col-md-6 >img {
+  height: 50%;
+  width: 50%;
+  margin-right: 40%;
+}
+#carousel-example-generic{
+  background-color: #A7D3DC;
+  padding-top: 60px;
+}
+.container{
+  margin-top: 450px;
+  text-align: center;
+  padding-bottom: 60px;
+}
+.col-md-4 >img{
+  height: 50%;
+  width: 50%;
+}
+.text-center{
+  background-color: #98D3A5;
+  padding-top: 30px;
+  color:white;
+}
+.text-center >h3{
+  font-size: 45px;
+  color:white;
+  font-family: serif;
+  font-weight: bold;
+}
+.nav-pills2 > li {
+  margin-top: 50px;
+  display: inline-block;
+}
+.nav-pills2 > li > a {
+  border-radius: 4px;
+  color:white;
+}
+.nav-pills2 > li > a:hover{
+  border:1px solid white;
+  background-color: #98D3A5;
+}
+
+.nav-pills2 > li.active > a,
+.nav-pills2 > li.active > a:hover,
+.nav-pills2 > li.active > a:focus {
+  color: #98D3A5;
+  background-color: white;
+}
+.pictures{
+  margin-top: 30px;
+}
+.pictures .col-md-4>img{
+  padding: 30px;
+  height: 80%;
+  width: 80%;
+}
+.text-center>button{
+  padding: 15px;
+  color:#3B3B3B;
+  background-color:white;
+  border: none;
+  border-radius: 5px;
+  margin-bottom: 50px;
+}
+.layout .container{
+  margin-top: 40px;
+  text-align: left;
+  padding: 8%;
+}
+.layout div>hr{
+  width: 85%;
+}
+#left,#right{
+  width: 80%;
+  height: 80%;
+
+}
+.blue{
+  background-color: #A7D3DC;
+  color: white;
+  padding: 15px;
+  border: none;
+  border-radius: 5px;
+  margin-top: 10px;
+}
+.green{
+  background-color: #98D3A5;
+  color: white;
+  padding: 15px;
+  border: none;
+  border-radius: 5px;
+  margin-top: 10px;
+}
+.team{
+  background-color: #DFB6C6;
+
+}
+.team>div{
+  margin-top: 30px;
+
+}
+.team .col-md-3{
+  background-color: #E8E8E8;
+  margin: 4.1%;
+  padding: 0;
+}
+.team .col-md-3>img{
+  background-color: #E8E8E8;
+  height: 75%;
+  width: 75%;
+}
+.col-md-3>h4,h2{
+  background-color: white;
+  color:#394849;
+  margin: 0;
+  padding:3%;
+  font-family: serif;
+}
+.col-md-3>p{
+  background-color: white;
+  color:lightgrey;
+  margin: 0;
+}
+.fa-facebook-square{
+  color:blue;
+  background-color: white;
+}
+.fa-twitter-square{
+  color:blue;
+
+}
+.fa-pinterest{
+  color:red;
+}
+.col-md-3>ul{
+  background-color: white;
+  margin: 0;
+  padding: 0;
+}
+.col-md-3>ul>li{
+  font-size: 25px;
+  display: inline;
+  background-color: white;
+  padding: 0 10px;
+}
+.posts{
+  background-color: #A7D3DC;
+}
+.posts>div{
+  margin-top: 30px;
+  padding: 0;
+}
+.posts .col-md-3{
+  background-color: #E8E8E8;
+  margin: 4.15%;
+  padding: 0;
+}
+.posts .col-md-3>img{
+  background-color: #E8E8E8;
+  height: 75%;
+  width: 75%;
+}
+.posts>button{
+  padding: 15px;
+  color:#A7D3DC;
+  background-color:white;
+  border: none;
+  border-radius: 5px;
+  margin-bottom: 30px;
+}
+.footer{
+  background-color: #394849;
+  margin: 0;
+}
+.footer .container{
+  background-color: #394849;
+  margin: 0 auto;
+}
+.footer .col-md-5{
+  color:white;
+}
+.footer .col-md-5>h3{
+  margin-top: 50px;
+  font-size: 45px;
+  color:white;
+  font-family: serif;
+  font-weight: bold;
+
+}
+input{
+  margin: auto;
+  margin-top: 20px;
+  padding: 5px;
+  width: 300px;
+  display: block;
+  border-radius: 5px;
+  border: none;
+}
+textarea{
+
+  font-family: 'arial', sans-serif;
+  border: none;
+  border-radius: 5px;
+  padding: 5px;
+  display: block;
+  margin: auto;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+.footer .col-md-5>button{
+  padding: 15px;
+  color:#394849;
+  background-color:white;
+  border: none;
+  border-radius: 5px;
+  margin-bottom: 30px;
+}
+.footer .container>hr{
+  color: black;
+  width: 70%;
+  margin-left: 20%;
+}
+.navbar-left{
+  margin-left: 19%;
+}
+span{
+  display: inline-block;
+}
+.navbar-left .fa{
+  font-size: 20px;
+  background-color:lightgrey;
+  color:#394849;
+  margin: 10px;;
+  padding: 15%;
+  border: none;
+  border-radius: 15px;
+
+}
+.navbar-right {
+  margin:  1.5% 10%;
+
+}
+.navbar-right>p>span{
+  color: #796C53;
+}
+@media (max-width:1199px) {
+  .navbar-right{
+    margin-right: 0;
+  }
+}
+@media (max-width:1095px) {
+  .nav-pills{
+    margin-right: 50px;
+
+}
+@media (max-width:992px) {
+  .col-md-6 >h3{
+
+    font-size: 300%;
+    color:white;
+    font-family: serif;
+    font-weight: bold;
+    margin:auto;
+  }
+  .col-md-6 >img {
+    height: 30%;
+    width: 30%;
+    margin: auto;
+    margin-top: 20px;
+  }
+  .container{
+    margin-top: 500px;
+  }
+  #left,#right{
+    width: 90%;
+    height: 90%;
+  }
+  .col-md-7>h3{
+    font-size: 40px;
+  }
+  .col-md-7>p{
+    font-size: 20px;
+  }
+  .pictures{
+    margin-top:30px;
+   }
+   .navbar-left{
+     margin-left: 0;
+   }
+}
+@media (max-width:986px) {
+  .brand{
+    font-size: 20px;
+  }
+  .nav > li > a {
+    font-size: 10px;
+  }
+
+}
+@media (max-width:876px) {
+  .nav-pills{
+    float: none;
+
+    padding: 0;
+    margin-top: 8px;
+    margin-left: 23%;
+  }
+  .fa-heart{
+    margin: 30px 0 auto;
+  }
+  .nav1{
+    text-align: center;
+  }
+  .container-fluid {
+    padding-top: 50px;
+  }
+}
+@media (max-width:633px) {
+  .nav-pills {
+    margin-left: 18%;
+  }
+
+}
+@media (max-width:660px) {
+  .nav-pills {
+    margin-left: 15%;
+  }
+
+}
+@media (max-width:546px) {
+  .nav-pills {
+    margin-left: 13%;
+  }
+
+}
+@media (max-width:534px) {
+  .nav-pills {
+    margin-left: 10%;
+  }
+
+}
+@media (max-width:516px) {
+  .nav-pills {
+    margin: 0;
+    margin-left: 8%;
+    background-color: #A7D3DC;
+  }
+
+}
+@media (max-width:534px) {
+  .nav-pills {
+    margin-left: 5%;
+  }
+
+}
+@media (max-width:436px) {
+  .nav-pills {
+    margin-left: 3%;
+  }
+
+}
